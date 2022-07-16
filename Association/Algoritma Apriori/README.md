@@ -20,9 +20,9 @@ Confidence = P(B|A) = COUNT(A&B)/COUNT(A)
 
 ## Formula
 $$ \text{confidence}(A\rightarrow B) = \frac{\text{support}(A\rightarrow B)}{\text{support}(A)}, \;\;\; \text{range: } [0, 1] $$ <br>
-$$ \text{confidence}(A\rightarrow B) = \frac{\text{support}(A\rightarrow B)}{\text{support}(A)}, \;\;\; \text{range: } [0, 1] $$ <br>
-$$ \text{confidence}(A\rightarrow B) = \frac{\text{support}(A\rightarrow B)}{\text{support}(A)}, \;\;\; \text{range: } [0, 1] $$ <br>
-$$ \text{confidence}(A\rightarrow B) = \frac{\text{support}(A\rightarrow B)}{\text{support}(A)}, \;\;\; \text{range: } [0, 1] $$ 
+$$ \text{lift}(A\rightarrow C) = \frac{\text{confidence}(A\rightarrow C)}{\text{support}(C)}, \;\;\; \text{range: } [0, \infty] $$ <br>
+$$ \text{levarage}(A\rightarrow C) = \text{support}(A\rightarrow C) - \text{support}(A) \times \text{support}(C), \;\;\; \text{range: } [-1, 1] $$ <br>
+$$ \text{conviction}(A\rightarrow C) = \frac{1 - \text{support}(C)}{1 - \text{confidence}(A\rightarrow C)}, \;\;\; \text{range: } [0, \infty] $$ 
 
 
 ## Reference
