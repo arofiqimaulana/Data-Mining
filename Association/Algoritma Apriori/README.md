@@ -24,11 +24,13 @@ Confidence = P(B|A) = COUNT(A&B)/COUNT(A)
 $$ \text{confidence}(A\rightarrow B) = \frac{\text{support}(A\rightarrow B)}{\text{support}(A)},  \text{range: } [0, 1] $$ <br>
 
 #### Lift
-$$ \text{lift}(A\rightarrow C) = \frac{\text{confidence}(A\rightarrow C)}{\text{support}(C)},  \text{range: } [0, \infty] $$ <br>
+$$ \text{lift}(A\rightarrow B) = \frac{\text{confidence}(A\rightarrow B)}{\text{support}(B)},  \text{range: } [0, \infty] $$ <br>
 
 #### Leverage
-$$ \text{leverage}(A\rightarrow C) = \text{support}(A\rightarrow C) - \text{support}(A) \times \text{support}(C), \text{range: } [-1, 1] $$ <br>
-$$ \text{conviction}(A\rightarrow C) = \frac{1 - \text{support}(C)}{1 - \text{confidence}(A\rightarrow C)}, \text{range: } [0, \infty] $$ 
+$$ \text{leverage}(A\rightarrow B) = \text{support}(A\rightarrow B) - \text{support}(A) \times \text{support}(B), \text{range: } [-1, 1] $$ <br>
+
+#### Conviction
+$$ \text{conviction}(A\rightarrow B) = \frac{1 - \text{support}(B)}{1 - \text{confidence}(A\rightarrow B)}, \text{range: } [0, \infty] $$ 
 
 
 ## Reference
