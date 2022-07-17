@@ -1,5 +1,7 @@
 # Algoritma Apriori
-Adalah teknik penemuan pola hubungan antar itemsets menggunakan frequensi tiap item.
+Secara arti Apriori adalah pengetahuan yang ada sebelum bertemu dengan pengalaman. Atau dengan kata lain, sebuah istilah yang dipakai untuk menjelaskan bahwa seseorang dapat berpikir dan memiliki asumsi tentang segala sesuatu, sebelum bertemu dengan pengalaman dan akhirnya mengambil kesimpulan.
+
+Sedangkan di dalam konteks data mining adalah teknik penemuan pola hubungan menggunakan kombinasi item yang melahirkan kandidat-kandidate aturan. Kandidat yang dibuat tidak harus terjadi di data real, namun bisa juga asumsi (oleh karena itu dinamaan apriori).
 
 # Flow
 1. Menetapkan nilai minimum *Support* dan *Confidence*
