@@ -21,7 +21,7 @@ Confidence = P(B|A) = COUNT(A&B)/COUNT(A)
 ## Formula
 
 #### Support
-$$ \text{support}(A\rightarrow B) = \frac{\text{frequency}(A\cup B)}{\text{N}} $$
+$$ \text{support}(A) = \frac{\text{frequency}(A)}{\text{N}}, \text{support}(A\rightarrow B) = \frac{\text{frequency}(A\cup B)}{\text{N}}, \text{range: } [0, 1] $$
 
 #### Confidence
 $$ \text{confidence}(A\rightarrow B) = \frac{\text{support}(A\rightarrow B)}{\text{support}(A)},  \text{range: } [0, 1] $$ <br>
