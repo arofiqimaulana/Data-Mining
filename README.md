@@ -27,4 +27,9 @@ Nama lain dari data mining
 3. Churn Prediction (deteksi pelanggan mana yang loyal)
 4. Fraud Detection (deteksi kecurangan)
 
-
+## Tahapan
+1. Business dan Data Understanding
+2. Data Preprocessing
+3. Modeling
+4. Evaluation
+5. Deploy
