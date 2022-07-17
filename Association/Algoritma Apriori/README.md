@@ -9,14 +9,14 @@ Confidence = P(B|A) = COUNT(A&B)/COUNT(A)
 3. Menghilangkan itemsets yang berada di bawah minimum *Support* 
 4. Menghilangkan itemsets yang berada di bawah minimum *Confidence*
 
-## Terms
+## Terminologi
 - antecedents : Jika rule yang terbentuk adalah A -> B, maka A disebut antecedents
 - consequents : Jika rule yang terbentuk adalah A -> B, maka B disebut consequents
 - support : menunjukkan berapa kali suatu item muncul dalam basis data transaksi
 - confidence : ukuran yang menunjukkan hubungan antar 2 item secara conditional
-- lift : suatu ukuran untuk mengetahui kekuatan  aturan  asosisasi  (association  rule)  yang telah  terbentuk. Nilai  lift  ratio  biasanya  digunakan sebagai  penentu  apakah  aturan  asosiasi  valid  atau tidak  valid.  lift = (support(A→C)/(coverage(A)*coverage(C))) . nilai lift > 1 menunjukkan bahwa hubungan antara antecedent dan consequent lebih signifikan dibandingkan sendiri-sendiri.
-- leverage : mirip dengan lift, namun yang dihitung adalah selisihnya yaitu leverage = (support(A→C)-(coverage(A)*coverage(C)))
-- conviction : nilai yang tinggi berarti konsekuensinya sangat tergantung pada anteseden. Misalnya, dalam kasus skor Conviction sempurna, hasilnya menjadi 0 (karena 1 - 1) di mana skor Conviction didefinisikan sebagai 'inf'. Mirip dengan lift, jika item independen, keyakinannya adalah 1.
+- lift : nilai yang mengukur besarnya hubungan antara antecedent dan consequent yang tidak saling bergantung (independent). Lift memiliki range mulai dari 0 sampai dengan ∞. Nilai yang mendekati 1 mengindikasikan bahwa antecedent dan consequent tidak memiliki ketergantungan. Nilai yang jauh dari 1 mengindikasikan bahwa antecedent menyediakan informasi tentang consequent. 
+- leverage : nilai yang mengukur banyaknya item antecedent dan consequence yang dijual secara bersamaan dalam suatu data set yang lebih dari yang diharapkan. Nilai 0 menunjukkan antecedent dan consequent independent. 
+- conviction : nilai yang tinggi berarti konsekuensinya sangat tergantung pada anteseden. Misalnya, dalam kasus skor Conviction sempurna, hasilnya menjadi 0 (karena 1 - 1) di mana skor Conviction didefinisikan sebagai 'inf'. Mirip dengan lift, jika item independen, conviction adalah 1.
 
 ## Formula
 
