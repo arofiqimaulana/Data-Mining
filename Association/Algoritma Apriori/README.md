@@ -20,6 +20,9 @@ Confidence = P(B|A) = COUNT(A&B)/COUNT(A)
 
 ## Formula
 
+#### Support
+$$ \text{support}(A\rightarrow B) = \text{support}(A \cup B), \;\;\; \text{range: } [0, 1] $$
+
 #### Confidence
 $$ \text{confidence}(A\rightarrow B) = \frac{\text{support}(A\rightarrow B)}{\text{support}(A)},  \text{range: } [0, 1] $$ <br>
 
