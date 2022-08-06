@@ -9,6 +9,8 @@ Sedangkan di dalam konteks data mining adalah teknik penemuan pola hubungan meng
 3. Menghilangkan itemsets yang berada di bawah minimum *Support* 
 4. Menghilangkan itemsets yang berada di bawah minimum *Confidence*
 
+![](images/apriori.png)
+
 ## Terminologi
 - antecedents : Jika rule yang terbentuk adalah A -> B, maka A disebut antecedents
 - consequents : Jika rule yang terbentuk adalah A -> B, maka B disebut consequents
