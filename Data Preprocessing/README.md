@@ -12,7 +12,7 @@ Sebuah data tikatakan tidak bersih jika mengandung kotoran yang berupa **nilai k
 - memperbaiki inkonsistensi (misal perbedaan satuan)
 
 ### 2. Data Integration
-Pada umumnya data yang ada tersebar di berbagai macam sumber seperti spreadsheet, MySQL, API. Sehingga terdapat kebutuhan untuk menggabungkan data tersebut menjadi satu kesatuan agar mudah dilakukan analisis data. Beberapa teknik yang digunakan di [Data Integration](ttps://github.com/arofiqimaulana/Course-Python-For-Data-Analysis/tree/762d8c9c29ec0d12251c0268bd85f3c6c0b3ae24) adalah
+Pada umumnya data yang ada tersebar di berbagai macam sumber seperti spreadsheet, MySQL, API. Sehingga terdapat kebutuhan untuk menggabungkan data tersebut menjadi satu kesatuan agar mudah dilakukan analisis data. Beberapa teknik yang digunakan di [Data Integration](https://github.com/arofiqimaulana/Course-Python-For-Data-Analysis/tree/762d8c9c29ec0d12251c0268bd85f3c6c0b3ae24) adalah
 - menggunakan join pada MySQL
 - menggunakan pd.merge di python
 - menggunakan platform ETL seperti Pentaho, Talend, Airflow, Jupyter NB, dan lainnya. 
@@ -36,7 +36,7 @@ Seringkali data yang kita punya perlu diubah ke dalam bentuk lainnya karena perb
 - Transformasi penskalaan desimal 
 
 ### 5. Data Discretization
-Seringkali data yang kita punya perlu diubah dari numerik ke kategorik maupun sebelumnya. Biasanya hal ini kita terapkan saat menggunakan Decision Tree agar lebih mudah menginterpretasikan rulesnya. Misal umur yang awalnya berupa variabel numerik diubah ke variabel kategorik menjadi remaja,dewasa, tua. Beberapa teknik [Data Discreatization](ttps://github.com/arofiqimaulana/Course-Python-For-Data-Analysis/tree/762d8c9c29ec0d12251c0268bd85f3c6c0b3ae24) yang bisa digunakan adalah
+Seringkali data yang kita punya perlu diubah dari numerik ke kategorik maupun sebelumnya. Biasanya hal ini kita terapkan saat menggunakan Decision Tree agar lebih mudah menginterpretasikan rulesnya. Misal umur yang awalnya berupa variabel numerik diubah ke variabel kategorik menjadi remaja,dewasa, tua. Beberapa teknik [Data Discreatization](https://github.com/arofiqimaulana/Course-Python-For-Data-Analysis/tree/762d8c9c29ec0d12251c0268bd85f3c6c0b3ae24) yang bisa digunakan adalah
 - bining
 - histogram
 - aturan sturgess
