@@ -19,6 +19,7 @@ Penentuan banyaknya cluster yang optimal bisa menggunakan
 1. opini expert
 2. silhouette
 3. Elbow
+4. Empirical methods
 
 ## Normalisasi Data
 Untuk mengatasi permasalahan perbedaan satuan, maka digunakan normalisasi seperti

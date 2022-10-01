@@ -1,5 +1,5 @@
 # Association Rule
-Merupakan teknik data mining untuk menemukan hubungan antar data (disebut juga Market Basket Analysis).
+Suatu teknik dalam data mining yang berguna untuk menentukan aturan asosiatifantara kombinasi item disebut (Kusrini, Emha, 2009).
 
 ## Algoritma
 Terdapat dua macam algoritma yang dapat digunakan untuk menyelesaikan permasalahan association rules.
