@@ -18,7 +18,3 @@ Terdapat banyak algoritma yang bisa digunakan seperti
 ## Aplikasi
 1. Mengklasifikasikan apakah suatu gambar termasuk anjing, kucing atau kelinci
 2. Melakukan prediksi apakah pelanggan akan masuk ke kategori kredit macet atau kredit lancar 
-
-
-## Reference
-1. 
