@@ -6,7 +6,7 @@ Terdapat banyak algoritma yang bisa digunakan seperti
 1. [k-Nearest Neighbor](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Supervised%20Learning/K-Nearest%20Neighbor)
 2. [Decision Tree](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Supervised%20Learning/Decision%20Tree)
 3. [Random Forest](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Ensemble%20Learning/Random%20Forest)
-4. Naive Bayes  
+4. [Naive Bayes](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Supervised%20Learning/Naive%20Bayes)
 5. [Support Vector Machine (SVM)](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Supervised%20Learning/Support%20Vector%20Machine)
 6. Regresi Logistik 
 7. Perceptron 
