@@ -32,10 +32,10 @@ Nama lain dari data mining
 |                         | Regresi                 | Linear Regression, Ridge, Lasso, SVR                                     |
 | **Unsupervised Learning** | [Clustering](https://github.com/arofiqimaulana/Data-Mining/tree/master/Clustering)            | K-Means, Hierarchical, DBSCAN, GMM                                       |
 |                         | [Asosiasi](https://github.com/arofiqimaulana/Data-Mining/tree/master/Association)                | Apriori, Eclat, FP-Growth                                                 |
-|                         | Dimensionality Reduction | PCA, t-SNE, UMAP                                                         |
+|                         | [Dimensionality Reduction](https://github.com/arofiqimaulana/Dimensionality-Reduction) | PCA, t-SNE, UMAP                                                         |
 | **Semi-Supervised Learning** | -                | Self-training, Label Propagation, Variational Autoencoder                |
 | **Reinforcement Learning** | -                    | Q-Learning, SARSA, DQN, Policy Gradient, PPO                             |
-| **Ensemble Learning**   | [Bagging](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Ensemble%20Learning/Bagging)                 | Random Forest, Bagged Decision Trees                                     |
+| [**Ensemble Learning**](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Ensemble%20Learning)   | [Bagging](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Ensemble%20Learning/Bagging)                 | Random Forest, Bagged Decision Trees                                     |
 |                         | [Boosting](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Ensemble%20Learning/Boosting)               | AdaBoost, Gradient Boosting, XGBoost, LightGBM, CatBoost                 |
 |                         | Stacking                | Stacked Generalization                                                   |
 
