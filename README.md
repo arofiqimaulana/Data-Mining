@@ -24,7 +24,7 @@ Nama lain dari data mining
 4. Clustering (Tidak punya Y)
 5. Association 
 
-# Pengelompokan Algoritma dalam Data Mining
+## 🔍 Pengelompokan Algoritma dalam Data Mining
 
 | Kelompok                | Sub-Tipe                | Algoritma                                                                 |
 |-------------------------|-------------------------|---------------------------------------------------------------------------|
