@@ -28,15 +28,15 @@ Nama lain dari data mining
 
 | Kelompok                | Sub-Tipe                | Algoritma                                                                 |
 |-------------------------|-------------------------|---------------------------------------------------------------------------|
-| **Supervised Learning** | Klasifikasi             | Decision Tree, Random Forest, Naive Bayes, KNN, Logistic Regression, SVM |
+| **Supervised Learning** | [Klasifikasi](https://github.com/arofiqimaulana/Data-Mining/tree/master/Classification)             | Decision Tree, Random Forest, Naive Bayes, KNN, Logistic Regression, SVM |
 |                         | Regresi                 | Linear Regression, Ridge, Lasso, SVR                                     |
-| **Unsupervised Learning** | Clustering            | K-Means, Hierarchical, DBSCAN, GMM                                       |
-|                         | Asosiasi                | Apriori, Eclat, FP-Growth                                                 |
+| **Unsupervised Learning** | [Clustering](https://github.com/arofiqimaulana/Data-Mining/tree/master/Clustering)            | K-Means, Hierarchical, DBSCAN, GMM                                       |
+|                         | [Asosiasi](https://github.com/arofiqimaulana/Data-Mining/tree/master/Association)                | Apriori, Eclat, FP-Growth                                                 |
 |                         | Dimensionality Reduction | PCA, t-SNE, UMAP                                                         |
 | **Semi-Supervised Learning** | -                | Self-training, Label Propagation, Variational Autoencoder                |
 | **Reinforcement Learning** | -                    | Q-Learning, SARSA, DQN, Policy Gradient, PPO                             |
-| **Ensemble Learning**   | Bagging                 | Random Forest, Bagged Decision Trees                                     |
-|                         | Boosting                | AdaBoost, Gradient Boosting, XGBoost, LightGBM, CatBoost                 |
+| **Ensemble Learning**   | [Bagging](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Ensemble%20Learning/Bagging)                 | Random Forest, Bagged Decision Trees                                     |
+|                         | [Boosting](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Ensemble%20Learning/Boosting)               | AdaBoost, Gradient Boosting, XGBoost, LightGBM, CatBoost                 |
 |                         | Stacking                | Stacked Generalization                                                   |
 
 ## 🔍 Aplikasi Data Mining
