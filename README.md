@@ -24,12 +24,26 @@ Nama lain dari data mining
 4. Clustering (Tidak punya Y)
 5. Association 
 
+# Pengelompokan Algoritma dalam Data Mining
+
+| Kelompok                | Sub-Tipe                | Algoritma                                                                 |
+|-------------------------|-------------------------|---------------------------------------------------------------------------|
+| **Supervised Learning** | Klasifikasi             | Decision Tree, Random Forest, Naive Bayes, KNN, Logistic Regression, SVM |
+|                         | Regresi                 | Linear Regression, Ridge, Lasso, SVR                                     |
+| **Unsupervised Learning** | Clustering            | K-Means, Hierarchical, DBSCAN, GMM                                       |
+|                         | Asosiasi                | Apriori, Eclat, FP-Growth                                                 |
+|                         | Dimensionality Reduction | PCA, t-SNE, UMAP                                                         |
+| **Semi-Supervised Learning** | -                | Self-training, Label Propagation, Variational Autoencoder                |
+| **Reinforcement Learning** | -                    | Q-Learning, SARSA, DQN, Policy Gradient, PPO                             |
+| **Ensemble Learning**   | Bagging                 | Random Forest, Bagged Decision Trees                                     |
+|                         | Boosting                | AdaBoost, Gradient Boosting, XGBoost, LightGBM, CatBoost                 |
+|                         | Stacking                | Stacked Generalization                                                   |
+
 ## 🔍 Aplikasi Data Mining
 1. Market Basket Analysis (misal, orang yang beli sabun, cenderung beli shampo juga)
 2. Recommender System (lulusan kampus X ternyta cenderung memiliki semangat kerja yang tinggi)
 3. Churn Prediction (deteksi pelanggan mana yang loyal)
 4. Fraud Detection (deteksi kecurangan)
-
 
 ## 🔍 Tahapan
 1. Business dan Data Understanding
