@@ -61,7 +61,7 @@ Nama lain dari data mining
 - **R (Caret, Dplyr, Tidyr)** – R menyediakan banyak paket untuk eksplorasi dan analisis data, termasuk untuk data mining.
 
 ## 📚 Referensi Belajar
-
+- [Materi PPT](https://drive.google.com/drive/folders/16F2iiZdmWTTWFvLIHzdptn9XbYNkusY7?usp=sharing)
 - [Data Mining: Concepts and Techniques by Jiawei Han](https://www.amazon.com/Data-Mining-Concepts-Techniques-3rd/dp/0123814790)
 - [Khan Academy - Data Mining](https://www.khanacademy.org/computing/computer-science)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
