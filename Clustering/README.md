@@ -17,8 +17,8 @@ Beberapa teknik yang dapat digunakan di clustering adalah
 ## Optimal Clusters
 Penentuan banyaknya cluster yang optimal bisa menggunakan
 1. opini expert
-2. silhouette
-3. Elbow
+2. [Silhouette](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Unsupervised%20Learning/K-Mean/Silhouette)
+3. [Elbow](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Unsupervised%20Learning/K-Mean/Silhouette)
 4. Empirical methods
 
 ## Normalisasi Data
