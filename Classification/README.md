@@ -15,6 +15,9 @@ Terdapat banyak algoritma yang bisa digunakan seperti
 10. [Convolutional Neural Network](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Deep%20Learning/Convolutional%20Neural%20Network%20(CNN))
 11. [Gradient Boosting](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Ensemble%20Learning/Boosting/Gradient%20Boosting)
 
+## Evaluasi Model
+- [Evaluasi Model](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Supervised%20Learning/Evaluation%20Classification)
+
 ## Aplikasi
 1. Mengklasifikasikan apakah suatu gambar termasuk anjing, kucing atau kelinci
 2. Melakukan prediksi apakah pelanggan akan masuk ke kategori kredit macet atau kredit lancar 
